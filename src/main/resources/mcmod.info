@@ -1,0 +1,16 @@
+[
+{
+  "modid": "pixelmonparty",
+  "name": "Pixelmon Party",
+  "description": "Creates a party for players to share their XP when winning battles!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://fallzpixelmon.com",
+  "updateUrl": "",
+  "authorList": ["Atoidi"],
+  "credits": "Atoidi",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
